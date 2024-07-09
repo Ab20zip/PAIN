@@ -18,4 +18,4 @@ Enjoy your Suffering!
 - RuBy
 
 ## License
-See the [license](license) file for details.
+See the [license file](license.TXT) for details.
